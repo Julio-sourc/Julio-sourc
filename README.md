@@ -1,6 +1,6 @@
 # Hey, I´m Julio de Melo
 - 💪🏾 I´m currently working on service desk
-- 😎 I´m study Inteligência Artificial e Aprendizado de Máquina
+- 😎 I´m studying Inteligência Artificial e Aprendizado de Máquina
 
 <div align="center">
   <a href="https://www.linkedin.com/feed/">
